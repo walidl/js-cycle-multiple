@@ -1,0 +1,13 @@
+div{
+  float:left;
+  text-align: center;
+  margin : 0 30px;
+  padding: 0 20px;
+  height: 100vh;
+  overflow-y: scroll ;
+
+}
+
+p{
+  line-height: 20px;
+}
